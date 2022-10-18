@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ReactJs, JavaScript, Python**
 
-- 👨‍💻 All of my details are available at [https://sayande.herokuapp.com/](https://sayande.me/)
+- 👨‍💻 All of my details are available at [https://sayande.me/](https://sayande.me/)
 
 - 📫 How to reach me **sayandeten@gmail.com**
 
