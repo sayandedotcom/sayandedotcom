@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **ReactJs, JavaScript, Python, TypeScript**
 
-- 👨‍💻 All of my details are available at [https://sayande.me/](https://sayande.tech/)
+- 👨‍💻 All of my details are available at [https://sayande.tech/](https://sayande.tech/)
 
 - 📫 How to reach me **sayandeten@gmail.com**
 
