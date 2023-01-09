@@ -98,7 +98,7 @@
 </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
   <img
-    src="https://sayande.tech/static/media/svg-bootstrap.91aad92a015faa64813b5f46723153a8.svg"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"
     alt="bootstrap"
     width="40"
     height="40"
