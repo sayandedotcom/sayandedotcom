@@ -90,7 +90,7 @@
 </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
   <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+    src="file:///C:/Users/Sayan/Desktop/ReactJs/Projects/my-portfolio-website/src/assests/frontend-svgs/svg-next.svg"
     alt="bootstrap"
     width="40"
     height="40"
