@@ -164,7 +164,31 @@
     height="40"
   />
 </a>
-
+<a href="https://postman.com" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
+    alt="postman"
+    width="40"
+    height="40"
+  />
+</a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg"
+    alt="postman"
+    width="40"
+    height="40"
+  />
+</a>
+  </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+  <img
+    src="https://sayande.tech/static/media/svg-kubernetes.1ade9eb9900c6dcddfff24812a220e54.svg"
+    alt="postman"
+    width="40"
+    height="40"
+  />
+</a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayande2002&show_icons=true&locale=en&layout=compact" alt="sayande2002" /></p>
