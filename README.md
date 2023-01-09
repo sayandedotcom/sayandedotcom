@@ -90,7 +90,7 @@
 </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
   <img
-    src="file:///C:/Users/Sayan/Desktop/ReactJs/Projects/my-portfolio-website/src/assests/frontend-svgs/svg-next.svg"
+    src="https://sayande.tech/static/media/svg-next.42809537574078a582dfbdd545773794.svg"
     alt="bootstrap"
     width="40"
     height="40"
