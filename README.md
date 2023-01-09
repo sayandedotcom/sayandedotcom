@@ -70,8 +70,16 @@
 </a>
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
   <img
+    src="https://sayande.tech/static/media/svg-redux-saga.6c9de57213b01d5cdd12e8e587a7b9ef.svg"
+    alt="redux-saga"
+    width="40"
+    height="40"
+  />
+</a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+  <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
-    alt="redux"
+    alt="nextjs"
     width="40"
     height="40"
   />
@@ -96,9 +104,25 @@
     height="40"
   />
 </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <img
+    src="https://sayande.tech/static/media/svg-styled-components.101c4d129744566a1660b23a1f6f4f82.svg"
+    alt="typescript"
+    width="40"
+    height="40"
+  />
+</a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"
+    alt="bootstrap"
+    width="40"
+    height="40"
+  />
+</a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+  <img
+    src="https://sayande.tech/static/media/svg-material-ui.60a0ece058ff0f20c1815cf138a56e35.svg"
     alt="bootstrap"
     width="40"
     height="40"
