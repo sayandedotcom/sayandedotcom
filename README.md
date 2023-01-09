@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [crwn-clothing](https://github.com/sayande2002/crwn-clothing.git)
 
-- 🌱 I’m currently learning **ReactJs, JavaScript, Python, TypeScript**
+- 🌱 I’m currently learning **ReactJs, NextJs, Redux, SASS, JavaScript, TypeScript**
 
 - 👨‍💻 All of my details are available at [https://sayande.tech/](https://sayande.tech/)
 
