@@ -24,7 +24,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sayande/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sayande/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100010494277272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100010494277272" height="30" width="40" /></a>
 <a href="https://instagram.com/sayande._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sayande._" height="30" width="40" /></a>
-<a href="/sayande.me/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="sayande.me/" height="30" width="40" /></a>
+<a href="(https://sayande.tech/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="sayande.me/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
