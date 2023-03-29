@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayande2002&label=Profile%20views&color=0e75b6&style=flat" alt="sayande2002" /> </p>
 
 
-- 🔭 I’m currently working on a seed funded startup
+- 🔭 I’m currently working on a <strong>Seed Funded Startup as Techinal Lead</strong> 
 
 - 🌱 I’m currently learning **ReactJs, NextJs, Redux, SASS, JavaScript, TypeScript**
 
