@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sayan De</h1>
-<h3 align="center">A passionate Front-End Developer from India</h3>
+<!-- <h3 align="center">A passionate Front-End Developer from India</h3> -->
 
-# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&vCenter=true&width=800&color=fa8c01&lines=Chandrprakash+Darji+Welcoming+you+%F0%9F%91%8B;Currently+I+am+working+on+Ax+Studios;Get+Amaze+https%3A%2F%2Fchandraprakash.codes%2F)
+# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&vCenter=true&width=800&color=fa8c01&lines=Sayan+De+Welcoming+you+%F0%9F%91%8B;Currently+I+am+a+passionate+Front+-+End+Developer+from+India;Get+Amaze+https%3A%2F%2Fchandraprakash.codes%2F)
 
-![20220210_181515_0000](https://user-images.githubusercontent.com/93640141/154883570-4886fb9e-8a31-4eae-bd99-5f4b70d9c44b.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayande2002&label=Profile%20views&color=0e75b6&style=flat" alt="sayande2002" /> </p>
 
