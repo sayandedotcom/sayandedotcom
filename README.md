@@ -131,6 +131,14 @@
     height="40"
   />
 </a>
+   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+  <img
+    src="https://sayande.tech/static/media/svg-tailwindcss.1ff53afb0748cd483d5f0ed13029f287.svg"
+    alt="bootstrap"
+    width="40"
+    height="40"
+  />
+</a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
   <img
     src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
