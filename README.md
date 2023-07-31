@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sayan De</h1>
 <!-- <h3 align="center">A passionate Front-End Developer from India</h3> -->
 
-# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&vCenter=true&width=800&color=fa8c01&lines=Sayan+De+Welcoming+you+%F0%9F%91%8B;I+am+a+passionate+Front+-+End+Developer;)
+# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&vCenter=true&width=800&color=fa8c01&lines=Sayan+De+Welcoming+you+%F0%9F%91%8B;I+am+a+passionate+Full+-+Stack+Developer;I+am+a+passionate+DevOps+-+Developer;)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayande2002&label=Profile%20views&color=0e75b6&style=flat" alt="sayande2002" /> </p>
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on a **Seed Funded Startup as Techinal Lead**
 
-- 🌱 I’m currently learning **NextJs, TypeScript**
+- 🌱 I’m currently learning **Kubernetes**
 
 - 👨‍💻 All of my details are available at [https://sayande.tech/](https://sayande.tech/)
 
