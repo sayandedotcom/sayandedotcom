@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sayan De</h1>
-<!-- <h3 align="center">A passionate Front-End Developer from India</h3> -->
+<h3 align="center">Full-Stack • DevOps • Cloud • Open Source</h3> 
 
 # ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&vCenter=true&width=800&color=fa8c01&lines=Sayan+De+Welcoming+you+%F0%9F%91%8B;I+am+a+passionate+Full+-+Stack+Developer;I+am+a+passionate+DevOps+-+Developer;)
 
@@ -19,11 +19,11 @@
 
 <!-- - 📄 My Resume [https://sayande.me/assets/SayanDeCV.pdf](https://sayande.me/assets/SayanDeCV.pdf) -->
 
-### Blogs posts
+<!-- ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sayande2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sayande2002" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sayande/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sayande/" height="30" width="40" /></a>
@@ -194,7 +194,7 @@
     height="40"
   />
 </a>
-</p>
+</p>  -->
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayande2002&show_icons=true&locale=en&layout=compact" alt="sayande2002" /></p>
 
