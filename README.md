@@ -7,13 +7,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayande2002&label=Profile%20views&color=0e75b6&style=flat" alt="sayande2002" /> </p>
 
 
-<!-- 🔭 I’m currently working on a **Seed Funded Startup as Techinal Lead** 
+- 🔭 I’m currently working on :
+  **Building a startup in Stealth mode ... will launch in May** 
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning :
+  **Advanced AWS Services, GraphQL, Kubernetes**
 
-- 👨‍💻 All of my details are available at [https://sayande.tech/](https://sayande.tech/)
+- 👨‍💻 All of my details are available at [https://sayande.com/](https://sayande.com/)
 
-- 📫 How to reach me **sayandeten@gmail.com** -->
+- 📫 How to reach me **sayandeten@gmail.com**
 
 <!-- - 📄 My Resume [https://sayande.me/assets/SayanDeCV.pdf](https://sayande.me/assets/SayanDeCV.pdf) -->
 
