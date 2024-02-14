@@ -16,6 +16,13 @@
 - 👨‍💻 All of my details are available at [https://sayande.com/](https://sayande.com/)
 
 - 📫 How to reach me **sayandeten@gmail.com**
+  
+- Technical Skills:-
+- **Languages -**  JavaScript, TypeScript, Golang, Python, Java, SQL
+- **Web Dev   -**  React.js, Next.js, Prisma, Node.js, PostgreSQL, Redis, MongoDB, GraphQL, Kafka, Elasticsearch
+- **DevOps    -**  Git, Jenkins, Docker, Kubernetes, ArgoCD, Nginix, Terraform, Ansible, Prometheus, Grafana
+- **Cloud     -**  AWS ( IAM, VPC, EC2, S3, RDS, Lambda, ELB, Auto Scaling, Route 53, ElastiCache, CloudFront, ECS, EKS )
+- **Others**  -**  DSA, RDBMS, OS, Cloud Computing, Networking, Linux, System Design ( HLD & LLD)
 
 <!-- - 📄 My Resume [https://sayande.me/assets/SayanDeCV.pdf](https://sayande.me/assets/SayanDeCV.pdf) -->
 
