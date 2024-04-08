@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayande2002&label=Profile%20views&color=0e75b6&style=flat" alt="sayande2002" /> </p>
 
 - 🔭 I’m currently working on :
-  **Building a startup in Stealth mode ... will launch in May** 
+  **Building a large side-project (kinda startup) in Stealth mode ... will launch in May 1st** 
 
 - 🌱 I’m currently learning :
   **Advanced AWS Services, GraphQL, Kubernetes**
