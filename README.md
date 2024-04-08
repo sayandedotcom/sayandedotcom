@@ -24,6 +24,27 @@
 - **Cloud     -**  AWS ( IAM, VPC, EC2, S3, RDS, Lambda, ELB, Auto Scaling, Route 53, ElastiCache, CloudFront, ECS, EKS )
 - **Others    -**  DSA, RDBMS, OS, Cloud Computing, Networking, Linux, System Design ( HLD & LLD)
 
+- ## Connect with me
+- [<img src='https://cdn.simpleicons.org/linkedin/0A66C2' alt='linkedin' height='40'>](https://www.linkedin.com/in/sayande/) &nbsp;
+[<img src='https://cdn.simpleicons.org/twitter?&theme=light' alt='twitter' height='40'>](https://twitter.com/sayandedotcom) &nbsp;
+[<img src='https://cdn.simpleicons.org/instagram?&theme=light' alt='instagram' height='40'>](https://instagram.com/sayandedotcom) &nbsp;
+
+
+- ## Skills
+
+I've shared below some of the skills I have. _In any way it doesn't mean that I am limited to just these skills_
+#### Programming Languages
+![Languages](https://skillicons.dev/icons?i=js,ts,python,java,go,SQL)
+#### Web-Development Technologies
+![](https://skillicons.dev/icons?i=react,next,tailwind,nodejs,express,graphql,prisma,postgres,mongodb,redis)
+
+#### DevOps & Cloud
+![Others](https://skillicons.dev/icons?i=git,github,githubactions,aws,docker,kubernetes,jenkins,nginx,terraform,prometheus,grafana,vercel,cloudflare)
+
+#### Other tools & Technologies
+![Others](https://skillicons.dev/icons?i=markdown,regex,vscode,visualstudio,linux,bash,vim,emacs,powershell,postman,selenium,vite,latex,figma)
+
+
 <!-- - 📄 My Resume [https://sayande.me/assets/SayanDeCV.pdf](https://sayande.me/assets/SayanDeCV.pdf) -->
 
 <!-- ### Blogs posts
