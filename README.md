@@ -33,10 +33,10 @@ I've shared below some of the skills I have. _In any way it doesn't mean that I 
 #### DevOps & Cloud
 ![Others](https://skillicons.dev/icons?i=git,github,githubactions,aws,docker,kubernetes,jenkins,nginx,terraform,prometheus,grafana,ansible,vercel,cloudflare)
 
-#### Other tools & Technologies
+<!-- - #### Other tools & Technologies
 ![Others](https://skillicons.dev/icons?i=markdown,regex,vscode,linux,bash,vim,powershell,postman,selenium,vite,latex,figma)
 
-<!-- - 📄 My Resume [https://sayande.me/assets/SayanDeCV.pdf](https://sayande.me/assets/SayanDeCV.pdf) -->
+ 📄 My Resume [https://sayande.me/assets/SayanDeCV.pdf](https://sayande.me/assets/SayanDeCV.pdf) -->
 <!-- - - Technical Skills:-
 - **Languages -**  JavaScript, TypeScript, Golang, Python, Java, SQL
 - **Web Dev   -**  React.js, Next.js, Prisma, Node.js, PostgreSQL, Redis, MongoDB, GraphQL, Kafka, Elasticsearch
