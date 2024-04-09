@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sayan De</h1>
 <h3 align="center">Full-Stack • DevOps • Cloud • Open Source • System Design</h3> 
 
-# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&vCenter=true&width=800&color=fa8c01&lines=Sayan+De+Welcoming+you+%F0%9F%91%8B;I+am+a+passionate+Full+-+Stack+Developer;I+am+a+passionate+DevOps+-+Developer;I+am+a+passionate+Cloud+-+Developer;)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayande2002&label=Profile%20views&color=0e75b6&style=flat" alt="sayande2002" /> </p>
-
-- 🔭 I’m currently working on :
+- I’m currently working on :
   **Building a large side-project (kind of startup) in Stealth mode ... will launch on May 1st** 
 
-- 🌱 I’m currently learning :
+- I’m currently learning :
   **Advanced Serverless, AWS Services, tRPC, Kubernetes**
 
-- 👨‍💻 All of my details are available at [https://sayande.com/](https://sayande.com/)
+- All of my details are available at [https://sayande.com/](https://sayande.com/)
 
 - 📫 How to reach me **sayandeten@gmail.com**
 
@@ -35,6 +31,10 @@ I've shared below some of the skills I have. _In any way it doesn't mean that I 
 
 <!-- - #### Other tools & Technologies
 ![Others](https://skillicons.dev/icons?i=markdown,regex,vscode,linux,bash,vim,powershell,postman,selenium,vite,latex,figma)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayande2002&label=Profile%20views&color=0e75b6&style=flat" alt="sayande2002" /> </p>
+
+# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&vCenter=true&width=800&color=fa8c01&lines=Sayan+De+Welcoming+you+%F0%9F%91%8B;I+am+a+passionate+Full+-+Stack+Developer;I+am+a+passionate+DevOps+-+Developer;I+am+a+passionate+Cloud+-+Developer;)
 
  📄 My Resume [https://sayande.me/assets/SayanDeCV.pdf](https://sayande.me/assets/SayanDeCV.pdf) -->
 <!-- - - Technical Skills:-
