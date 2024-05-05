@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack • DevOps • Cloud • Open Source • System Design</h3> 
 
 - I’m currently working on :
-  **Building a large side-project (private repo) in Stealth mode ... will launch on May 1st** 
+  **Building a large side-project (private repo) in Stealth mode ... will launch on June 1st** 
 
 - I’m currently learning :
   **Advanced Serverless, AWS Services, tRPC, Kubernetes**
