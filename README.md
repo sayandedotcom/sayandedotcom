@@ -24,7 +24,7 @@ I've shared below some of the skills I have. _In any way it doesn't mean that I 
 #### Programming Languages
 ![Languages](https://skillicons.dev/icons?i=js,ts,solidity,python,java,go,rust)
 #### Web Development Technologies
-![](https://skillicons.dev/icons?i=react,next,tailwind,nodejs,express,django,graphql,prisma,postgres,mongodb,redis,kafka)
+![](https://skillicons.dev/icons?i=react,next,tailwind,nodejs,django,graphql,prisma,postgres,mongodb,redis,kafka)
 
 #### DevOps & Cloud
 ![Others](https://skillicons.dev/icons?i=git,github,githubactions,aws,docker,kubernetes,jenkins,nginx,terraform,prometheus,grafana,ansible,vercel,cloudflare)
