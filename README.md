@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sayan De</h1>
-<h3 align="center">Full-Stack • DevOps • Cloud • Open Source • System Design</h3> 
+<h3 align="center">Builder first, software engineer second !</h3> 
+<h3 align="center">Full-Stack • DevOps • Cloud • Open Source • System Design • Product Building</h3> 
 
 - I’m currently working on :
-  **Building a large side-project (private repo) in Stealth mode ... will launch on June 1st** 
+  **Building a large side-project (private repo) in Stealth mode ... will launch on August** 
 
 - I’m currently learning :
-  **Advanced Serverless, AWS Services, tRPC, Kubernetes**
+  **Advanced Serverless, AWS Services, Kubernetes**
 
 - All of my details are available at [https://sayande.com/](https://sayande.com/)
 
