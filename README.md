@@ -19,16 +19,16 @@
 [<img src='https://cdn.simpleicons.org/facebook?&theme=light' alt='instagram' height='40'>](https://www.facebook.com/profile.php?id=100010494277272) &nbsp;
 [<img src='https://cdn.simpleicons.org/gmail' alt='instagram' height='40'>](mailto:sayandeten@gmail.com) &nbsp;
 
-## Skills
+<!-- ## Skills
 
 I've shared below some of the skills I have. _In any way it doesn't mean that I am limited to just these skills_
 #### Programming Languages
 ![Languages](https://skillicons.dev/icons?i=js,ts,python,java,go,rust,solidity)
 #### Web Development Technologies
-![](https://skillicons.dev/icons?i=react,next,tailwind,nodejs,django,graphql,prisma,postgres,mongodb,redis,kafka)
+![](https://skillicons.dev/icons?i=react,next,tailwind,nodejs,django,graphql,prisma,postgres,mongodb,redis,kafka) 
 
 #### DevOps & Cloud
-![Others](https://skillicons.dev/icons?i=git,github,githubactions,aws,docker,kubernetes,jenkins,nginx,terraform,prometheus,grafana,ansible,vercel,cloudflare)
+![Others](https://skillicons.dev/icons?i=git,github,githubactions,aws,docker,kubernetes,jenkins,nginx,terraform,prometheus,grafana,ansible,vercel,cloudflare) -->
 
 <!-- - #### Other tools & Technologies
 ![Others](https://skillicons.dev/icons?i=markdown,regex,vscode,linux,bash,vim,powershell,postman,selenium,vite,latex,figma)
