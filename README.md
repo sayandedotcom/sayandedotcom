@@ -10,7 +10,9 @@
 
 - All of my details are available at [https://sayande.com/](https://sayande.com/)
 
+- 📫 How to reach me **contact@sayande.com**
 - 📫 How to reach me **sayandeten@gmail.com**
+  
 
 ## Connect with me
 [<img src='https://cdn.simpleicons.org/linkedin/0A66C2' alt='linkedin' height='40'>](https://www.linkedin.com/in/sayande/) &nbsp;
