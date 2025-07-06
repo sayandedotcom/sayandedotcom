@@ -15,11 +15,14 @@
   
 
 ## Connect with me
-[<img src='https://cdn.simpleicons.org/linkedin/0A66C2' alt='linkedin' height='40'>](https://www.linkedin.com/in/sayande/) &nbsp;
+[<img src='https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sayande/) &nbsp;
+[<img src='https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter-x.svg' alt='linkedin' height='40'>](https://x.com/sayandedotcom) &nbsp;
+
+<!-- [<img src='https://cdn.simpleicons.org/linkedin/0A66C2' alt='linkedin' height='40'>](https://www.linkedin.com/in/sayande/) &nbsp;
 [<img src='https://cdn.simpleicons.org/x?&theme=light' alt='x' height='40'>](https://x.com/sayandedotcom) &nbsp;
 [<img src='https://cdn.simpleicons.org/instagram?&theme=light' alt='instagram' height='40'>](https://instagram.com/sayandedotcom) &nbsp;
 [<img src='https://cdn.simpleicons.org/facebook?&theme=light' alt='instagram' height='40'>](https://www.facebook.com/profile.php?id=100010494277272) &nbsp;
-[<img src='https://cdn.simpleicons.org/gmail' alt='instagram' height='40'>](mailto:sayandeten@gmail.com) &nbsp;
+[<img src='https://cdn.simpleicons.org/gmail' alt='instagram' height='40'>](mailto:sayandeten@gmail.com) &nbsp; -->
 
 <!-- ## Skills
 
