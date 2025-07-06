@@ -8,15 +8,16 @@
 - I’m currently learning :
   **Advanced Serverless, AWS / GCP Services, Kubernetes, AI Engineering, Microservices**
 
-- All of my details are available at [https://sayande.com/](https://sayande.com/)
-
+- All of my details are available at [**sayande.com**](https://sayande.com/)
+- 📄 Resume / CV [**Link**](https://drive.google.com/file/d/1gaxacihpjA2GsZ-6l8GmZPNBv1ycgF4a/view)
+- 📄 My Blogs [**blogs.sayande.com**](https://blogs.sayande.com/)
 - 📫 How to reach me **contact@sayande.com**
 - 📫 How to reach me **sayandeten@gmail.com**
   
 
 ## Connect with me
 [<img src='https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sayande/) &nbsp;
-[<img src='https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter-x.svg' alt='linkedin' height='40'>](https://x.com/sayandedotcom) &nbsp;
+[<img src='https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter-x.svg' alt='linkedin' height='40'>](https://x.com/sayandedotcom) &nbsp; 
 
 <!-- [<img src='https://cdn.simpleicons.org/linkedin/0A66C2' alt='linkedin' height='40'>](https://www.linkedin.com/in/sayande/) &nbsp;
 [<img src='https://cdn.simpleicons.org/x?&theme=light' alt='x' height='40'>](https://x.com/sayandedotcom) &nbsp;
