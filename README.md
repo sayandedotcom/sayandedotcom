@@ -6,7 +6,7 @@
   **Building a large side-project (private repo) in Stealth mode ... will launch on August** -->
 
 - I’m currently learning :
-  **Advanced Serverless, AWS / GCP Services, Kubernetes, AI Engineering, Microservices**
+  **AI Engineering, AI Agents, Advanced Serverless, AWS / GCP Services, Kubernetes, Microservices**
 
 - All of my details are available at [**sayande.com**](https://sayande.com/)
 - 📄 Resume / CV [**Link**](https://drive.google.com/file/d/1gaxacihpjA2GsZ-6l8GmZPNBv1ycgF4a/view)
