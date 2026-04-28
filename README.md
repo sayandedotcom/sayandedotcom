@@ -10,8 +10,8 @@
 
 - All of my details are available at [**sayande.com**](https://sayande.com/)
 - Side Hustling - AI SAAS [**tweakleaf.com**](https://tweakleaf.com/)
-- 📄 Resume / CV [**Link**](https://drive.google.com/file/d/1gaxacihpjA2GsZ-6l8GmZPNBv1ycgF4a/view)
-- 📄 My Blogs [**blogs.sayande.com**](https://blogs.sayande.com/)
+- 📄 Resume / CV [**Link**](https://drive.google.com/file/d/1PS-72mV6TQVDRTbLtK2SkR0VU74zZz4a/view)
+- 📄 My Blogs [**sayande.hashnode.dev**](https://sayande.hashnode.dev/)
 - 📫 How to reach me **contact@sayande.com**
 - 📫 How to reach me **sayandeten@gmail.com**
   
