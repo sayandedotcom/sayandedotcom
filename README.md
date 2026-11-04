@@ -9,7 +9,7 @@
   **AI Engineering, AI Agents, Advanced Serverless, AWS / GCP Services, Kubernetes, Microservices**
 
 - All of my details are available at [**sayande.com**](https://sayande.com/) / [**[sayande.vercel.app](https://sayande.vercel.app/)**] 
-- Side Hustling - AI SAAS [**interviewresources.app**](https://www.interviewresources.app/)
+- Side Hustling - AI SAAS [**replyman.app**](https://replyman.app/)
 - 📄 Resume / CV [**Link**](https://drive.google.com/file/d/1PS-72mV6TQVDRTbLtK2SkR0VU74zZz4a/view)
 - 📄 My Blogs [**sayande.hashnode.dev**](https://sayande.hashnode.dev/)
 - 📫 How to reach me **sayandeten@gmail.com**
